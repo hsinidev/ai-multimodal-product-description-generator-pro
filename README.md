@@ -1,6 +1,6 @@
 # 🚀 AI Multimodal Product Description Generator
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge)](https://doodax.com) [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge)](https://doodax.com/tools/ai-multimodal-product-description-generator/index.html) [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **Doodax.com** is a state-of-the-art e-commerce tool that leverages the power of **Google Gemini 2.5 Multimodal AI**. It allows merchants, marketers, and content creators to instantly generate high-converting, SEO-optimized product descriptions by simply uploading an image and defining their target audience.
 
